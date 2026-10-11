@@ -19,13 +19,9 @@ announcements:
   limit: 5
 ---
 
-I am a Ph.D. candidate in the [Graduate School of Artificial Intelligence](https://ai.postech.ac.kr/) at [POSTECH](https://www.postech.ac.kr/), working as a member of the [Computer Vision Lab](http://cvlab.postech.ac.kr/lab/), advised by Prof. [Suha Kwak](https://suhakwak.github.io/).
+I am a Research Scientist at **GenGenAI**, working on generative AI, computer vision, and multimodal learning. I received my Ph.D. from **POSTECH**, where my research focused on cross-modal representation learning and retrieval.
 
-My research lies in computer vision and multi-modal learning, with a particular focus on cross-modal retrieval. I'm interested in learning fine-grained cross-modal representations that align vision with other modalities. I have worked extensively on **text-based person search**, and have also explored video-text retrieval and audio-visual learning.
-
-Recently, I am exploring **generative cross-modal retrieval**, leveraging generative models for more efficient and scalable retrieval.
-
-If you are interested in my research projects, please feel free to <a href="mailto:jicheol@postech.ac.kr">contact me</a>.
+My current research interests include multimodal generation, vision-language models, generative video modeling, and synthetic data generation for real-world AI applications.
 
 
 <style>

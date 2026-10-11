@@ -392,7 +392,7 @@ ninja.data = [{
           section: "Education",},{id: "education-daegu-gyeongbuk-institute-of-science-and-technology-dgist-daegu-south-korea-m-s-in-information-and-communication-engineering",
           title: 'Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea M.S. in...',
           description: "",
-          section: "Education",},{id: "education-pohang-university-of-science-and-technology-postech-pohang-south-korea-ph-d-student-in-graduate-school-of-artificial-intelligence-advisor-prof-suha-kwak",
+          section: "Education",},{id: "education-pohang-university-of-science-and-technology-postech-pohang-south-korea-ph-d-student-in-graduate-school-of-artificial-intelligence",
           title: 'Pohang University of Science and Technology (POSTECH), Pohang, South Korea Ph.D. student in...',
           description: "",
           section: "Education",},{id: "news-a-paper-on-text-based-person-search-is-accepted-to-eccv-2024",

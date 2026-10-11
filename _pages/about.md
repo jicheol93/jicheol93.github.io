@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 social: true
-subtitle: <a href='https://ai.postech.ac.kr/'>Graduate School of Artificial Intelligence</a>, <a href='https://www.postech.ac.kr/'>POSTECH</a>
+subtitle: <a href='https://ai.postech.ac.kr/'>Graduate School of Artificial Intelligence</a>, <a href='https://www.postech.ac.kr/'>POSTECH</a>, <a href='https://gengen.ai/'>GenGenAI</a>
 
 profile:
   align: right
@@ -19,9 +19,9 @@ announcements:
   limit: 5
 ---
 
-I am a Research Scientist at **GenGenAI**, working on generative AI, computer vision, and multimodal learning. I received my Ph.D. from **POSTECH**, where my research focused on cross-modal representation learning and retrieval.
+I am a Research Scientist and Technical Lead at GenGenAI, working on generative AI, computer vision, and multimodal learning.
 
-My current research interests include multimodal generation, vision-language models, generative video modeling, and synthetic data generation for real-world AI applications.
+I received my Ph.D. from POSTECH. My research spans cross-modal retrieval, vision-language models, and synthetic data generation for real-world AI applications.
 
 
 <style>
